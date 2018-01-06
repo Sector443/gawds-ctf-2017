@@ -9,5 +9,5 @@ Pristine wanted to meet her love MacBox so she sent him a message. NSA was able 
 
 We can see list of transactions on that address. First one seems failed. If we check second transaction which does not send any ether to destination but it has data in hex format. By clicking Hex to ASCII button we can see the flag.
 
-![alt screenshot2](https://github.com/Sector443/gawds-ctf-2018/blob/master/Ethereum/gawds_ropsten_eth_flag.png "Screenshot 2)
+![alt screenshot2](https://github.com/Sector443/gawds-ctf-2018/blob/master/Ethereum/gawds_ropsten_eth_flag.png "Screenshot 2")
 
